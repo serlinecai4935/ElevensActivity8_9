@@ -83,7 +83,7 @@ public class ElevensBoard extends Board {
     private boolean containsPairSum11(List<Integer> selectedCards) {
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 9 *** */
         for (int p=0; p<selectedCards.size(); p++){
-            
+
         }
         return true;
     }
